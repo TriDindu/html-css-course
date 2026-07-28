@@ -1,4 +1,3 @@
-<Style>
  .subscriber-button {
     background-color: rgb(200, 0, 0);
     color: white;
@@ -60,10 +59,3 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
    
   }
-</Style>
-
-
-
-<button class = "subscriber-button">SUBSCRIBE</button>
-<button class = "join-button">JOIN</button>
-<button class = "tweet-button">Tweet</button>
